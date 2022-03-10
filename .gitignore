@@ -4,9 +4,9 @@
 nektar_cpp/kmer_assembly
 
 #extensin files
-*.o
-*.pyc
-*.so
+# *.o
+# *.pyc
+# *.so
 
 # Created by https://www.gitignore.io/api/node,webstorm
 
