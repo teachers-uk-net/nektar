@@ -1,4 +1,8 @@
-# NEKTAR : NEw Kmer Tool for Analysis of Reads
+# Forked from [https://github.com/iric-soft/nektar](https://github.com/iric-soft/nektar)
+
+To make it play more nicely with [spack](https://spack.readthedocs.io/en/latest/)
+
+# NEKTAR : NEw Kmer Tool for Analysis of Reads #
 
 This repository holds several tools to extract the NEKTAR of kmers created by [jellyfish](http://www.genome.umd.edu/jellyfish.html).
 
